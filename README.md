@@ -44,10 +44,7 @@ The course is organized into the following modules.
 
 Your final grade is based on two components:
 
-  Component                                        Weight
-  -------------------------------------------- ----------
-  **Continuous assessment: Wooclap quizzes at the beginning of each class**      **20%**
-  **Final group project**                         **80%**
-
+- Continuous assessment: Wooclap quizzes at the beginning of each class (graded!) - **20%**
+- Final group project - **80%** 
 
 ------------------------------------------------------------------------
